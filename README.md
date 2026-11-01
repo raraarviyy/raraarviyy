@@ -96,7 +96,7 @@
 
 <br/><br/>
 
-<a href="https://visitcount.itsvg.in"><img src="https://komarev.com/ghpvc/?username=raraarviyy&icon=0&color=CDB4DB&label=VIEWS&style=for-the-badge" alt="Views" /></a>
+<img src="https://komarev.com/ghpvc/?username=raraarviyy&icon=0&color=CDB4DB&label=VIEWS&style=for-the-badge" alt="Views" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:A2D2FF,50:CDB4DB,100:FFC8DD" width="100%" alt="footer" />
 
