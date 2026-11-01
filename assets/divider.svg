@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="40" viewBox="0 0 900 40" role="img" aria-label="divider">
+<defs>
+<path id="spark" d="M0-14C2-5 5-2 14 0C5 2 2 5 0 14C-2 5-5 2-14 0C-5-2-2-5 0-14Z"/>
+<path id="heart" d="M0 9C-16-3-9-16 0-6C9-16 16-3 0 9Z"/>
+<linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0" stop-color="#FFC8DD"/>
+<stop offset="0.5" stop-color="#CDB4DB"/>
+<stop offset="1" stop-color="#A2D2FF"/>
+</linearGradient>
+</defs>
+
+<line x1="60" y1="20" x2="400" y2="20" stroke="url(#line)" stroke-width="3" stroke-linecap="round" stroke-dasharray="2 12">
+<animate attributeName="stroke-dashoffset" values="0;-28" dur="2s" repeatCount="indefinite"/>
+</line>
+<line x1="500" y1="20" x2="840" y2="20" stroke="url(#line)" stroke-width="3" stroke-linecap="round" stroke-dasharray="2 12">
+<animate attributeName="stroke-dashoffset" values="0;28" dur="2s" repeatCount="indefinite"/>
+</line>
+
+<g transform="translate(450,20)">
+<use href="#heart" fill="#FF9EC4">
+<animateTransform attributeName="transform" type="scale" values="1;1.35;1" dur="1.6s" repeatCount="indefinite"/>
+</use>
+</g>
+<g transform="translate(418,20)">
+<use href="#spark" fill="#FFE8A3" transform="scale(0.55)">
+<animate attributeName="opacity" values="1;0.2;1" dur="1.8s" repeatCount="indefinite"/>
+</use>
+</g>
+<g transform="translate(482,20)">
+<use href="#spark" fill="#CDB4DB" transform="scale(0.55)">
+<animate attributeName="opacity" values="0.2;1;0.2" dur="1.8s" repeatCount="indefinite"/>
+</use>
+</g>
+</svg>
