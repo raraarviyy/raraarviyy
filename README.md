@@ -6,6 +6,7 @@
 
 <br/>
 
+<a href="https://rara-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-CDB4DB?style=for-the-badge&logo=firefox&logoColor=4A4E69" alt="Portfolio" /></a>
 <a href="https://instagram.com/raskizel"><img src="https://img.shields.io/badge/Instagram-FFAFCC?style=for-the-badge&logo=instagram&logoColor=4A4E69" alt="Instagram" /></a>
 <a href="mailto:raraarviana22@gmail.com"><img src="https://img.shields.io/badge/Email-A2D2FF?style=for-the-badge&logo=gmail&logoColor=4A4E69" alt="Email" /></a>
 
@@ -78,7 +79,7 @@
 <img src="https://img.shields.io/badge/Jira-F1F7B5?style=for-the-badge&logo=jira&logoColor=4A4E69" alt="Jira" />
 <img src="https://img.shields.io/badge/Vercel-FDFFB6?style=for-the-badge&logo=vercel&logoColor=4A4E69" alt="Vercel" />
 <img src="https://img.shields.io/badge/Nginx-F1F7B5?style=for-the-badge&logo=nginx&logoColor=4A4E69" alt="Nginx" />
-<img src="https://img.shields.io/badge/Portfolio-FDFFB6?style=for-the-badge&logo=firefox&logoColor=4A4E69" alt="Portfolio" />
+<a href="https://rara-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FDFFB6?style=for-the-badge&logo=firefox&logoColor=4A4E69" alt="Portfolio" /></a>
 
 <br/><br/>
 
